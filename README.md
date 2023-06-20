@@ -1,4 +1,4 @@
-#Atlas Coding Challenge
+# Atlas Coding Challenge
 
 ## Getting Started
 
